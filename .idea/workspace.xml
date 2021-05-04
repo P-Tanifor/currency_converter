@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2480f51d-9b2d-48a6-81de-1e76afc1da12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1pi7aihjSu4xPwc8E6JbHvrI9je" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="C:\Users\Tanifor\PycharmProjects\3D-TEL SOLVER\venv\Scripts\python.exe">
+        <option name="mySdkHome" value="C:\Users\Tanifor\PycharmProjects\3D-TEL SOLVER\venv\Scripts\python.exe" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2480f51d-9b2d-48a6-81de-1e76afc1da12" name="Default Changelist" comment="" />
+      <created>1615654121755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615654121755</updated>
+      <workItem from="1615654135154" duration="9815000" />
+      <workItem from="1615665071924" duration="199000" />
+      <workItem from="1615665275077" duration="475000" />
+      <workItem from="1615665769246" duration="482000" />
+      <workItem from="1615666262221" duration="822000" />
+      <workItem from="1615667111676" duration="551000" />
+      <workItem from="1615704639992" duration="10139000" />
+      <workItem from="1615821405240" duration="13000" />
+      <workItem from="1615821746116" duration="19687000" />
+      <workItem from="1616009340292" duration="48000" />
+      <workItem from="1618049365044" duration="249000" />
+      <workItem from="1618475158658" duration="15000" />
+      <workItem from="1620151813829" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1615664788333">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1615664788333" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1616009342655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1616009342655" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Currency_Converter$Currency_Converter_Cryptocurrencies_are_the_new_black.coverage" NAME="Currency Converter/Cryptocurrencies are the new black Coverage Results" MODIFIED="1615665162065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Currency_Converter$Currency_Converter_Last_but_not_least.coverage" NAME="Currency Converter/Last but not least Coverage Results" MODIFIED="1615908861290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Currency_Converter$Currency_Converter_JSON_and_the_Rates.coverage" NAME="Currency Converter/JSON and the Rates Coverage Results" MODIFIED="1615664714004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Currency_Converter$Currency_Converter_More_interaction.coverage" NAME="Currency Converter/More interaction Coverage Results" MODIFIED="1615666221214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Currency_Converter$Currency_Converter_Going_global.coverage" NAME="Currency Converter/Going global Coverage Results" MODIFIED="1615667064587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Currency_Converter$Currency_Converter_Talking_numbers.coverage" NAME="Currency Converter/Talking numbers Coverage Results" MODIFIED="1615665721393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
